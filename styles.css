@@ -19,3 +19,9 @@ h1, div {
     font-size: medium;
     width: 100%;
 }
+
+#error {
+    height: auto;
+    width: 900px;
+    text-align: center;
+}
