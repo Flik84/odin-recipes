@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(0, 96, 126);
+    color: white;
+}
+
+
+h1, div {
+    text-align: center;
+    font-size: 50px;
+}   
+
+.main {
+    height: auto;
+    width: 500px;
+}
+
+#caption {
+    text-align: center;
+    font-size: medium;
+    width: 100%;
+}
